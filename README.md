@@ -65,11 +65,13 @@ python vt_scanner.py --help
 ## Input File Format
 
 **IPs file (ips.txt):**
+
 8.8.8.8
 1.1.1.1
 185.220.101.1
 
 **Hashes file (hashes.txt):**
+
 5d41402abc4b2a76b9719d911017c592
 098f6bcd4621d373cade4e832627b4f6
 
@@ -77,6 +79,7 @@ python vt_scanner.py --help
 http://example.com
 https://suspicious-site.xyz
 
+undefined
 
 ## Risk Levels
 
